@@ -1,0 +1,23 @@
+.first{
+  background-color: cadetblue;
+}
+
+.but{
+  border: none;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10rem;
+  height: 100vh;
+}
+
+.item{
+  display: flex;
+  background: whitesmoke;
+  flex-direction: column;
+  height: 15rem;
+  padding: 15px;
+  border-radius: 10px;
+}
