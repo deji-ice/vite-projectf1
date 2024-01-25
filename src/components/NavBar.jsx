@@ -1,7 +1,7 @@
 const NavBar = () => {
     return (
         <nav className="flex bg-[#fbebeb] justify-between items-center px-14 py-5   ">
-            <div><img src="https://res.cloudinary.com/dhvwthnzq/image/upload/v1705578412/react/Frame_289413_d5eii6.png" alt="" /></div>
+            <div><img  className="w-10" src="https://res.cloudinary.com/dhvwthnzq/image/upload/v1705578412/react/Frame_289413_d5eii6.png" alt="" /></div>
 
             <div className="flex justify-between items-center gap-40">
 
